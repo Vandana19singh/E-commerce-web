@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Hair & care",
+        "price" : "122",
+        "category":"Oil",
+        "imgSrc" : "images/2.jpg"
+    },
+    {
+        "name" : "Ponds",
+        "price" : "123",
+        "category":"Facewash",
+        "imgSrc" : "images/3.jpg"
+    },
+    {
+        "name" : "Dabur Amla",
+        "price" : "122",
+        "category":"Oil",
+        "imgSrc" : "images/4.jpg"
+    },
+    {
+        "name" : "Himalaya",
+        "price" : "124",
+        "category":"Facewash",
+        "imgSrc" : "images/5.jpg"
+    }
+    
+]
